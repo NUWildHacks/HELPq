@@ -8,10 +8,10 @@
 //------------------------------
 
 // Primary color of your brand
-$brand-primary: #137DC3;
+$brand-primary: #4E2A84;
 
 // Secondary color of your brand
-$brand-secondary: #FFBF0A;
+$brand-secondary: #836EAA;
 
 // Success Buttons
 $brand-success: rgb(46, 204, 113);
@@ -62,7 +62,7 @@ $github-gray: #e4e4e4;
 // or background color.
 //------------------------------
 #splash {
-  color: white;
+  color: #E4E0EE;
   background: $brand-primary;
 
   // Comment these two lines if you want a single image to cover the entire page.
@@ -75,7 +75,7 @@ $github-gray: #e4e4e4;
 
 // Banner which appears under the nav, and on each page.
 #banner {
-  color: white;
+  color: #E4E0EE;
   //  background: url(/assets/images/background.jpg) no-repeat center center;
   //  background-size: cover;
   //  background: $brand-primary;
